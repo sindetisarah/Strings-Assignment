@@ -4,7 +4,7 @@ fun main() {
     var fullDetails =personalDetails("Amani","56")
     println(fullDetails)
 
-    var stringLength =length("I am learning Kotlin")
+    var stringLength =length("Brenda")
     println(stringLength)
 
     var fullyChecked=checkName("sarah")
@@ -12,11 +12,11 @@ fun main() {
 }
 
 fun combineCharacters(){
-    val school ="akirachix"
-    val firstLetter =school[0]
-    val thirdLetter =school[2]
-    val fourthLetter =school[3]
-    val  new =println("$firstLetter$thirdLetter$fourthLetter")
+    var school ="akirachix"
+    var firstLetter =school[0]
+    var thirdLetter =school[2]
+    var fourthLetter =school[3]
+    var  new =println("$firstLetter$thirdLetter$fourthLetter")
 
 
 }
