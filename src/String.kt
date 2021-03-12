@@ -34,6 +34,7 @@ fun length(myString:String):Int{
     return length
 
 }
+
 fun checkName(name:String) {
     if (name=="sarah") {
         println("Thats me")
